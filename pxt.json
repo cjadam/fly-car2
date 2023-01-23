@@ -1,0 +1,34 @@
+{
+    "name": "fly car2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "SuperBit": "github:lzty634158/superbit#0a0d6cd2c18804f6b56e944d0c7ff7bd91473ec8",
+        "SuperBitV2": "github:YahboomTechnology/SuperBitLibv2#b45bfd570704169a918e5d99f84ac8b4ec2b6a3b",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.12",
+        "tag": "v5.0.12",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/97491d6832cccab6b5bdc05b58e4c6b5dcc18cdd",
+        "target": "5.0.12",
+        "pxt": "8.0.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
